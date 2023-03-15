@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning C++,GO and SQL. 
 
 ### BLOG
-- [Quiita](https://qiita.com/styu214)
+- [Qiita](https://qiita.com/styu214)
 
 <!---
 genkihoshino02/genkihoshino02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
