@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @genkihoshino02 
 - I'm junior software engineer. 
-- 👀 I’m interested in web application deveplopment.
-- 🌱 I’m currently learning C++,GO and SQL. 
+- I'm using CakePHP / Vue.js on the job
 
 ### BLOG
 - [Qiita](https://qiita.com/styu214)
